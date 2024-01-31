@@ -1,0 +1,2 @@
+require("tugrul")
+print("selam")
