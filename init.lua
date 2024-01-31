@@ -1,2 +1,1 @@
 require("tugrul")
-print("selam")
